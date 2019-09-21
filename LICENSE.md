@@ -1,2 +1,2 @@
-
-Copyright (C) 2019 Relentless
+Copyright (C) 2019 RLNT
+All Rights Reserved unless otherwise explicitly stated.
