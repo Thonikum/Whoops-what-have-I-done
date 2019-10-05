@@ -1,0 +1,306 @@
+# Mod Config Completion List
+
+### Entries that have no notes are untouched
+
+- AE2Stuff
+  - Applied Energistics Companion Mod
+  - basic settings done
+  - refinements needed
+- AdvGenerators
+  - only supports overwrites
+  - needs adjustments in the final stage of the pack
+  - carbon values need to be done
+- AppliedEnergistics2
+  - done
+  - facades have to be hidden later
+- CustomMainMenu
+  - not set up yet
+  - is the last stage of modpack creation
+- ExCompressum
+- Extreme Reactors
+- FBP (Fancy Block Particles)
+- FarmingForBlockheads
+- Guide-API
+- JustEnoughCalculation
+- Practical-Logistics
+- Tiny Progressions
+- agricraft
+  - basic settings done
+  - weed disabled
+  - all seeds need a lot of adjustments later
+  - planning on using different soils
+- armoryexpansion
+- astralsorcery
+  - basic settings done
+  - ritual adjustments are needed
+- bloodarsenal
+  - basic settings done
+  - needs further investigation on the mod
+  - ritual adjustments
+- bloodmagic
+  - basic settings done
+  - needs further investigation on the mod
+  - ritual adjustments
+- bonsaitrees
+  - done
+- brandon3055
+  - Project Intelligence
+    - done
+  - BrandonsCore
+    - done
+  - DraconicAdditions.cfg
+    - not enough knowledge
+  - DraconicEvolution.cfg
+    - not enough knowledge
+- buildcraft
+  - basic settings done
+  - unneeded stuff needs to be disabled
+  - needs further testing
+- codechicken
+  - done
+- cofh
+  - core
+    - done
+  - nonvflash
+    - done
+  - thermalcultivation
+    - done
+  - thermaldynamics
+    - done
+  - thermalexpansion
+    - basic settings done
+    - needs testing whether all machines will be needed
+    - common.cfg
+      - needs adjustments to disable machines, augmentations and mod integration
+    - needs testing on florbs and morbs
+      - think we don't need them though
+  - thermalfoundation
+    - basic settings done
+    - common.cfg
+      - needs adjustments to disable machines, augmentations and mod integration
+  - thermalinnovation
+    - done
+  - world
+    - done
+- compacter
+  - done
+- compactmachines3
+  - done
+- endercore
+  - done
+- enderio
+- environmentaltech
+- exnihilocreatio
+- fantasticlib/reference
+- forestry
+- ftbquests/normal
+- gendustry
+- incontrol
+- jei
+- jeresources
+- laser_drill_ores
+- mekanism
+- modularmachinery
+- morebees
+- opencomputers
+- pneumaticcraft
+- rftools
+- roots
+- smoothfont
+- spiceoflife
+- teamreborn
+- tool_progression
+- unidict
+- valkyrielib
+- woot
+- xnet
+- AE2WirelessTerminals.cfg
+- Animus.cfg
+- AvaritiaTweaks.cfg
+- Building Gadgets.cfg
+- DiscordSuite.cfg
+- Embersified.cfg
+- Exchangers.cfg
+- IntegrationForegoing.cfg
+- InvTweaks.cfg
+- InvTweaksRules.txt
+- InvTweaksTree.txt
+- JAOPCA.cfg
+- LogisticsPipes.cfg
+- Lootbags_BagConfig.cfg
+- MoreOverlays.cfg
+- NoMobSpawningOnTrees.cfg
+- OpenModsLibCore.json
+- OreDictInit.cfg
+- Probe.cfg
+- ProgressiveBosses.cfg
+- TComplementModules.cfg
+- TinkerIO.cfg
+- TinkerModules.cfg
+- TinkerSkyblock.cfg
+- TinkerToolLeveling.cfg
+- actuallyadditions.cfg
+- akashictome.cfg
+- alcatrazcore.cfg
+- angermanagement.cfg
+- appleskin.cfg
+- armoryexpansion.cfg
+- astralsorcery.cfg
+- attributefix.cfg
+- avaritia.cfg
+- badwithernocookiereloaded.cfg
+- baubles.cfg
+- beebetteratbees.cfg
+- betterbuilderswands.cfg
+- betterplacement.cfg
+- betterwithaddons.cfg
+- betterwithmods.cfg
+- bookshelf.cfg
+- botania.cfg
+- carryon.cfg
+- ceramics.cfg
+- chisel.cfg
+- chiselsandbits.cfg
+- chiselsandbits_clipboard.cfg
+- codechickenlib.cfg
+- compactdrawers.cfg
+- conarm.cfg
+- cookingforblockheads.cfg
+- craftingtweaks.cfg
+- creeperconfetti.cfg
+- ctm.cfg
+- custombackgrounds.cfg
+- cyclopscore.cfg
+- darkutils.cfg
+- demagnetize.cfg
+- ding.cfg
+- embers.cfg
+- enderstorage.cfg
+- eternalsingularity.cfg
+- excompressum.cfg
+- extendedcrafting.cfg
+- extrautils2.cfg
+- factorytech.cfg
+- factorytech_maintenance.cfg
+- fantasticlib.cfg
+- farmingforblockheads.cfg
+- fastbench.cfg
+- fastflyblockbreaking.cfg
+- fastfurnace.cfg
+- fastleafdecay.cfg
+- flux_networks.cfg
+- flyringbaublemod.cfg
+- foamfix.cfg
+- forge.cfg
+- forgeChunkLoading.cfg
+- forgivingvoid.cfg
+- ftbbackups.cfg
+- ftblib.cfg
+- ftbutilities.cfg
+- furnaceoverhaul.cfg
+- fw.cfg
+- gamestages.cfg
+- gendustryjei.cfg
+- gottagofast.cfg
+- hammercore.cfg
+- hardcoreitemstages.cfg
+- harvestcraft.cfg
+- harvestcraft_fruittree.cfg
+- hungerpersistence.cfg
+- igwmod.cfg
+- immersivecables.cfg
+- immersiveengineering.cfg
+- immersivetech.cfg
+- industrialforegoing.cfg
+- infinitylib.cfg
+- instantunify.cfg
+- ironchest.cfg
+- itemphysic.cfg
+- itemstages.cfg
+- jeibees.cfg
+- jeiintegration.cfg
+- journeymap_ModInfo.cfg
+- journeymap_server.cfg
+- kiwi.cfg
+- kleeslabs.cfg
+- lootbags.cfg
+- magicbees.cfg
+- matc.cfg
+- mcjtylib.cfg
+- mekanism.cfg
+- moartinkers.cfg
+- modnametooltip.cfg
+- modulardiversity.cfg
+- morpheus.cfg
+- morphtool.cfg
+- mysticalagradditions.cfg
+- mysticalagriculture.cfg
+- mysticalagriculture_recipes.cfg
+- mysticalworld.cfg
+- naturesaura.cfg
+- neat.cfg
+- nofog.cfg
+- notenoughwands.cfg
+- notreepunching.cfg
+- nuclearcraft.cfg
+- openblocks.cfg
+- openmods.cfg
+- oreexcavation.cfg
+- oreexcavation_groups.json
+- oreexcavation_overrides.json
+- oreexcavation_shapes.json
+- overpoweredarmorbar.cfg
+- p455w0rdsLib.cfg
+- packagedauto.cfg
+- packagedavaritia.cfg
+- packagedexcrafting.cfg
+- patchouli.cfg
+- pdp.cfg
+- phosphor.json
+- placebo.cfg
+- plustic.cfg
+- pneumaticcraft.cfg
+- quark.cfg
+- randomthings.cfg
+- rangedpumps.cfg
+- researchtable.cfg
+- sc.cfg
+- simplyjetpacks-client.cfg
+- simplyjetpacks.cfg
+- skyresources.cfg
+- snad.cfg
+- solcarrot.cfg
+- soot.cfg
+- spiceoflife.cfg
+- splash.properties
+- stg.cfg
+- storagedrawers.cfg
+- storagenetwork.cfg
+- structuredcrafting.cfg
+- supersoundmuffler.cfg
+- tc6aspects4jei.cfg
+- tcomplement.cfg
+- tconstruct.cfg
+- teamislands.cfg
+  - done
+- teslacorelib.cfg
+- thaumcraft_graphics.cfg
+- thaumcraft_misc.cfg
+- thaumcraft_world.cfg
+- thaumicenergistics.cfg
+- thaumicjei.cfg
+- thaumicjei_itemstack_aspects.json
+- theoneprobe.cfg
+- toastcontrol.cfg
+- tombmanygraves.cfg
+- topaddons.cfg
+- topaddons_client.cfg
+- torchmaster.cfg
+- torohealthmod.cfg
+- ts2k16.cfg
+- tweakersconstruct.cfg
+- ungrabmouse.cfg
+- unloader.cfg
+- vaultopic.cfg
+- waitingtimestats.json
+- ynot.cfg
