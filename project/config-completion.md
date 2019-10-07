@@ -19,12 +19,20 @@
 - ExCompressum
   - removed all standard recipes
 - Extreme Reactors
+  - removed recipes
+  - removed oregen
+  - removed uranium oredict
 - FBP (Fancy Block Particles)
 - FarmingForBlockheads
+  - disabled all default market-trades
 - Guide-API
 - JustEnoughCalculation
 - Practical-Logistics
+  - removed oregen
 - Tiny Progressions
+  - removed extra drops
+  - removed worldgen/oregen
+  - needs testing for several different things
 - agricraft
   - basic settings done
   - weed disabled
