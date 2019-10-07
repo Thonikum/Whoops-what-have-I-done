@@ -25,7 +25,6 @@ minecraft:glowing
 minecraft:levitation
 minecraft:luck
 minecraft:unluck
-naturesaura:breathless
 randomthings:imbue_fire
 randomthings:imbue_poison
 randomthings:imbue_experience
@@ -89,7 +88,6 @@ betterwithaddons:cannonball
 betterwithaddons:electrified
 betterwithaddons:tarred
 bloodarsenal:bleeding
-roots:freeze
 astralsorcery:potioncheatdeath
 astralsorcery:potionbleed
 astralsorcery:potionspellplague

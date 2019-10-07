@@ -39,10 +39,10 @@ openblocks:last_stand
 openblocks:flim_flam
 randomthings:magnetic
 enderio:witherarrow
+enderio:soulbound
 enderio:shimmer
 enderio:witherweapon
 enderio:repellent
-enderio:soulbound
 exnihilocreatio:sieve_efficiency
 exnihilocreatio:sieve_fortune
 exnihilocreatio:sieve_luck_of_the_sea

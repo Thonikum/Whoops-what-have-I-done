@@ -5,7 +5,6 @@ minecraft:smith
 minecraft:butcher
 minecraft:nitwit
 openblocks:radio
-roots:druid
 pneumaticcraft:mechanic
 actuallyadditions:jamguy
 actuallyadditions:engineer
