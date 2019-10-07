@@ -17,7 +17,7 @@
   - not set up yet
   - is the last stage of modpack creation
 - ExCompressum
-  - removed all standart recipes
+  - removed all standard recipes
 - Extreme Reactors
 - FBP (Fancy Block Particles)
 - FarmingForBlockheads
